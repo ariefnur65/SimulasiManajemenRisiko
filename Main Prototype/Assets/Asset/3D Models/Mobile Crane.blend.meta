@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 5c13b36d4901f494b855c9643c88feca
+timeCreated: 1543023922
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Crane
+    100002: Grapler_body
+    100004: Grappler
+    100006: Hooker
+    100008: Lower_Body
+    100010: Lower_Hooker
+    100012: Middle_Body
+    100014: //RootNode
+    100016: Wheel1
+    100018: Wheel2
+    100020: Wheel3
+    100022: Wheel4
+    400000: Crane
+    400002: Grapler_body
+    400004: Grappler
+    400006: Hooker
+    400008: Lower_Body
+    400010: Lower_Hooker
+    400012: Middle_Body
+    400014: //RootNode
+    400016: Wheel1
+    400018: Wheel2
+    400020: Wheel3
+    400022: Wheel4
+    2100000: Material
+    2100002: unnamed
+    2300000: Crane
+    2300002: Grapler_body
+    2300004: Grappler
+    2300006: Hooker
+    2300008: Lower_Body
+    2300010: Lower_Hooker
+    2300012: Middle_Body
+    2300014: Wheel1
+    2300016: Wheel2
+    2300018: Wheel3
+    2300020: Wheel4
+    3300000: Crane
+    3300002: Grapler_body
+    3300004: Grappler
+    3300006: Hooker
+    3300008: Lower_Body
+    3300010: Lower_Hooker
+    3300012: Middle_Body
+    3300014: Wheel1
+    3300016: Wheel2
+    3300018: Wheel3
+    3300020: Wheel4
+    4300000: Crane
+    4300002: Grapler_body
+    4300004: Grappler
+    4300006: Lower_Hooker
+    4300008: Hooker
+    4300010: Lower_Body
+    4300012: Middle_Body
+    4300014: Wheel4
+    4300016: Wheel3
+    4300018: Wheel2
+    4300020: Wheel1
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 01876c4e6e6955f4c9ce6e69dca1afa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 01876c4e6e6955f4c9ce6e69dca1afa4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
